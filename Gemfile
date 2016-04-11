@@ -18,7 +18,9 @@ gem 'simple_form'
 gem 'autoprefixer-rails'
 gem 'omniauth-facebook'
 gem "geocoder"
-
+gem 'devise-i18n'
+gem 'devise-i18n-views'
+gem "rails-i18n"
 gem "coffee-rails"
 gem "gmaps4rails"
 
