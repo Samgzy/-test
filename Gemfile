@@ -23,6 +23,7 @@ gem 'devise-i18n-views'
 gem "rails-i18n"
 gem "coffee-rails"
 gem "gmaps4rails"
+gem 'gibbon'
 
 source 'https://rails-assets.org' do
   gem "rails-assets-underscore"
