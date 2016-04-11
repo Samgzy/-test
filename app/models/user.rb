@@ -20,7 +20,7 @@ class User < ActiveRecord::Base
     end
   end
 
-  private
+ private
 
   def subscribe_to_newsletter
     SubscribeToNewsletterService.new(self).call
